@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MyProjectCPP2",
+			"Path": "C:\\Users\\Admin\\Documents\\GitHub\\pong\\MyProjectCPP2\\Source\\MyProjectCPP2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MyProjectCPP2Editor",
+			"Path": "C:\\Users\\Admin\\Documents\\GitHub\\pong\\MyProjectCPP2\\Source\\MyProjectCPP2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

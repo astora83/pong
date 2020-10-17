@@ -1,0 +1,2 @@
+C:\Users\Admin\Documents\GitHub\pong\MyProjectCPP2\Intermediate\Build\Win64\UE4Editor\Development\MyProjectCPP2\Definitions.MyProjectCPP2.h
+C:\Users\Admin\Documents\GitHub\pong\MyProjectCPP2\Source\MyProjectCPP2\MyProjectCPP2.h
